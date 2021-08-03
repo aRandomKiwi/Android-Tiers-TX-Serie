@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ATPP_CreateSX2.label>Créer un androide TX2 male de substitution (SX2)</ATPP_CreateSX2.label>
+  <ATPP_CreateSX2.description>Créer un androide de substitution SX2 male à partir de plastacier et composants.</ATPP_CreateSX2.description>
+  <ATPP_CreateSX2.jobString>Fabrique un androide de substitution SX2</ATPP_CreateSX2.jobString>
+  
+  <ATPP_CreateSX2Female.label>Créer un androide TX2 femelle de substitution (SX2)</ATPP_CreateSX2Female.label>
+  <ATPP_CreateSX2Female.description>Créer un androide de substitution SX2 femelle à partir de plastacier et composants.</ATPP_CreateSX2Female.description>
+  <ATPP_CreateSX2Female.jobString>Fabrique un androide de substitution SX2</ATPP_CreateSX2Female.jobString>
+  
+  <ATPP_CreateSX3.label>Créer un androide TX3 male de substitution (SX3)</ATPP_CreateSX3.label>
+  <ATPP_CreateSX3.description>Créer un androide de substitution SX3 male à partir de plastacier et composants.</ATPP_CreateSX3.description>
+  <ATPP_CreateSX3.jobString>Fabrique un androide de substitution SX3</ATPP_CreateSX3.jobString>
+  
+  <ATPP_CreateSX3Female.label>Créer un androide TX3 femelle de substitution (SX3)</ATPP_CreateSX3Female.label>
+  <ATPP_CreateSX3Female.description>Créer un androide de substitution SX3 femelle à partir de plastacier et composants.</ATPP_CreateSX3Female.description>
+  <ATPP_CreateSX3Female.jobString>Fabrique un androide de substitution SX3</ATPP_CreateSX3Female.jobString>
+
+  <ATPP_CreateSX4.label>Créer un androide TX4 male de substitution (SX4)</ATPP_CreateSX4.label>
+  <ATPP_CreateSX4.description>Créer un androide de substitution SX4 male à partir de plastacier et composants.</ATPP_CreateSX4.description>
+  <ATPP_CreateSX4.jobString>Fabrique un androide de substitution SX4</ATPP_CreateSX4.jobString>  
+  
+  <ATPP_CreateSX4Female.label>Créer un androide TX4 femelle de substitution (SX4)</ATPP_CreateSX4Female.label>
+  <ATPP_CreateSX4Female.description>Créer un androide de substitution SX4 femelle à partir de plastacier et composants.</ATPP_CreateSX4Female.description>
+  <ATPP_CreateSX4Female.jobString>Fabrique un androide de substitution SX4</ATPP_CreateSX4Female.jobString>  
+  
+  <ATPP_CreateSX2I.label>Créer un androide TX2I male de substitution (SX2I)</ATPP_CreateSX2I.label>
+  <ATPP_CreateSX2I.description>Créer un androide de substitution SX2I male à partir de plastacier et composants.</ATPP_CreateSX2I.description>
+  <ATPP_CreateSX2I.jobString>Fabrique un androide de substitution SX2I</ATPP_CreateSX2I.jobString>
+  
+  <ATPP_CreateSX2IFemale.label>Créer un androide TX2I femelle de substitution (SX2I)</ATPP_CreateSX2IFemale.label>
+  <ATPP_CreateSX2IFemale.description>Créer un androide de substitution SX2I femelle à partir de plastacier et composants.</ATPP_CreateSX2IFemale.description>
+  <ATPP_CreateSX2IFemale.jobString>Fabrique un androide de substitution SX2I</ATPP_CreateSX2IFemale.jobString>
+  
+  <ATPP_CreateSX2K.label>Créer un androide TX2K male de substitution (SX2K)</ATPP_CreateSX2K.label>
+  <ATPP_CreateSX2K.description>Créer un androide de substitution SX2K male à partir de plastacier et composants.</ATPP_CreateSX2K.description>
+  <ATPP_CreateSX2K.jobString>Fabrique un androide de substitution SX2K</ATPP_CreateSX2K.jobString>
+  
+  <ATPP_CreateSX2KFemale.label>Créer un androide TX2K femelle de substitution (SX2K)</ATPP_CreateSX2KFemale.label>
+  <ATPP_CreateSX2KFemale.description>Créer un androide de substitution SX2K femelle à partir de plastacier et composants.</ATPP_CreateSX2KFemale.description>
+  <ATPP_CreateSX2KFemale.jobString>Fabrique un androide de substitution SX2K</ATPP_CreateSX2KFemale.jobString>
+  
+  <ATPP_CreateSX2KI.label>Créer un androide TX2KI male de substitution (SX2KI)</ATPP_CreateSX2KI.label>
+  <ATPP_CreateSX2KI.description>Créer un androide de substitution SX2KI male à partir de plastacier et composants.</ATPP_CreateSX2KI.description>
+  <ATPP_CreateSX2KI.jobString>Fabrique un androide de substitution SX2KI</ATPP_CreateSX2KI.jobString>
+  
+  <ATPP_CreateSX2KIFemale.label>Créer un androide TX2KI femelle de substitution (SX2KI)</ATPP_CreateSX2KIFemale.label>
+  <ATPP_CreateSX2KIFemale.description>Créer un androide de substitution SX2KI femelle à partir de plastacier et composants.</ATPP_CreateSX2KIFemale.description>
+  <ATPP_CreateSX2KIFemale.jobString>Fabrique un androide de substitution SX2KI</ATPP_CreateSX2KIFemale.jobString>
+  
+  <ATPP_CreateSX3I.label>Créer un androide TX3I male de substitution (SX3I)</ATPP_CreateSX3I.label>
+  <ATPP_CreateSX3I.description>Créer un androide de substitution SX3I male à partir de plastacier et composants.</ATPP_CreateSX3I.description>
+  <ATPP_CreateSX3I.jobString>Fabrique un androide de substitution SX3I</ATPP_CreateSX3I.jobString>
+  
+  <ATPP_CreateSX3IFemale.label>Créer un androide TX3I femelle de substitution (SX3I)</ATPP_CreateSX3IFemale.label>
+  <ATPP_CreateSX3IFemale.description>Créer un androide de substitution SX3I femelle à partir de plastacier et composants.</ATPP_CreateSX3IFemale.description>
+  <ATPP_CreateSX3IFemale.jobString>Fabrique un androide de substitution SX3I</ATPP_CreateSX3IFemale.jobString>
+
+  <ATPP_CreateSX4I.label>Créer un androide TX4I de substitution (SX4I)</ATPP_CreateSX4I.label>
+  <ATPP_CreateSX4I.description>Créer un androide de substitution SX4I à partir de plastacier et composants.</ATPP_CreateSX4I.description>
+  <ATPP_CreateSX4I.jobString>Fabrique un androide de substitution SX4I</ATPP_CreateSX4I.jobString>  
+  
+  <ATPP_CreateSX4IFemale.label>Créer un androide TX4I femelle de substitution (SX4I)</ATPP_CreateSX4IFemale.label>
+  <ATPP_CreateSX4IFemale.description>Créer un androide de substitution SX4I femelle à partir de plastacier et composants.</ATPP_CreateSX4IFemale.description>
+  <ATPP_CreateSX4IFemale.jobString>Fabrique un androide de substitution SX4I</ATPP_CreateSX4IFemale.jobString>  
+ 
+  <ATPP_CreateTX4Android.label>Créer un androide TX4 male</ATPP_CreateTX4Android.label>
+  <ATPP_CreateTX4Android.description>Créer un androide TX4 male</ATPP_CreateTX4Android.description>
+  <ATPP_CreateTX4Android.jobString>Crée un androide TX4</ATPP_CreateTX4Android.jobString>
+  
+  <ATPP_CreateTX4FemaleAndroid.label>Créer un androide TX4 femelle</ATPP_CreateTX4FemaleAndroid.label>
+  <ATPP_CreateTX4FemaleAndroid.description>Créer un androide TX4 femelle</ATPP_CreateTX4FemaleAndroid.description>
+  <ATPP_CreateTX4FemaleAndroid.jobString>Crée un androide TX4</ATPP_CreateTX4FemaleAndroid.jobString>
+  
+  <ATPP_CreateTX3Android.label>Créer un androide TX3 male</ATPP_CreateTX3Android.label>
+  <ATPP_CreateTX3Android.description>Créer un androide TX3 male</ATPP_CreateTX3Android.description>
+  <ATPP_CreateTX3Android.jobString>Crée un androide TX3</ATPP_CreateTX3Android.jobString>
+  
+  <ATPP_CreateTX3FemaleAndroid.label>Créer un androide TX3 femelle</ATPP_CreateTX3FemaleAndroid.label>
+  <ATPP_CreateTX3FemaleAndroid.description>Créer un androide TX3 femelle</ATPP_CreateTX3FemaleAndroid.description>
+  <ATPP_CreateTX3FemaleAndroid.jobString>Crée un androide TX3</ATPP_CreateTX3FemaleAndroid.jobString>
+  
+  <ATPP_CreateTX2Android.label>Créer un androide TX2 male</ATPP_CreateTX2Android.label>
+  <ATPP_CreateTX2Android.description>Créer un androide TX2 male</ATPP_CreateTX2Android.description>
+  <ATPP_CreateTX2Android.jobString>Crée un androide TX2</ATPP_CreateTX2Android.jobString>
+  
+  <ATPP_CreateTX2FemaleAndroid.label>Créer un androide TX2 femelle</ATPP_CreateTX2FemaleAndroid.label>
+  <ATPP_CreateTX2FemaleAndroid.description>Créer un androide TX2 femelle</ATPP_CreateTX2FemaleAndroid.description>
+  <ATPP_CreateTX2FemaleAndroid.jobString>Crée un androide TX2</ATPP_CreateTX2FemaleAndroid.jobString>
+  
+  <ATPP_CreateTX4IAndroid.label>Créer un androide TX4I male</ATPP_CreateTX4IAndroid.label>
+  <ATPP_CreateTX4IAndroid.description>Créer un androide TX4I male</ATPP_CreateTX4IAndroid.description>
+  <ATPP_CreateTX4IAndroid.jobString>Crée un androide TX4I</ATPP_CreateTX4IAndroid.jobString>
+  
+  <ATPP_CreateTX4IFemaleAndroid.label>Créer un androide TX4I femelle</ATPP_CreateTX4IFemaleAndroid.label>
+  <ATPP_CreateTX4IFemaleAndroid.description>Créer un androide TX4I femelle</ATPP_CreateTX4IFemaleAndroid.description>
+  <ATPP_CreateTX4IFemaleAndroid.jobString>Crée un androide TX4I</ATPP_CreateTX4IFemaleAndroid.jobString>
+  
+  <ATPP_CreateTX3IAndroid.label>Créer un androide TX3I male</ATPP_CreateTX3IAndroid.label>
+  <ATPP_CreateTX3IAndroid.description>Créer un androide TX3I male</ATPP_CreateTX3IAndroid.description>
+  <ATPP_CreateTX3IAndroid.jobString>Crée un androide TX3I</ATPP_CreateTX3IAndroid.jobString>
+  
+  <ATPP_CreateTX3IFemaleAndroid.label>Créer un androide TX3I femelle</ATPP_CreateTX3IFemaleAndroid.label>
+  <ATPP_CreateTX3IFemaleAndroid.description>Créer un androide TX3I femelle</ATPP_CreateTX3IFemaleAndroid.description>
+  <ATPP_CreateTX3IFemaleAndroid.jobString>Crée un androide TX3I</ATPP_CreateTX3IFemaleAndroid.jobString>
+  
+  <ATPP_CreateTX2IAndroid.label>Créer un androide TX2I</ATPP_CreateTX2IAndroid.label>
+  <ATPP_CreateTX2IAndroid.description>Créer un androide TX2I</ATPP_CreateTX2IAndroid.description>
+  <ATPP_CreateTX2IAndroid.jobString>Crée un androide TX2I</ATPP_CreateTX2IAndroid.jobString>
+  
+  <ATPP_CreateTX2IFemaleAndroid.label>Créer un androide TX2I femelle</ATPP_CreateTX2IFemaleAndroid.label>
+  <ATPP_CreateTX2IFemaleAndroid.description>Créer un androide TX2I femelle</ATPP_CreateTX2IFemaleAndroid.description>
+  <ATPP_CreateTX2IFemaleAndroid.jobString>Crée un androide TX2I</ATPP_CreateTX2IFemaleAndroid.jobString>
+  
+  <ATPP_CreateTX2KAndroid.label>Créer un androide TX2K male</ATPP_CreateTX2KAndroid.label>
+  <ATPP_CreateTX2KAndroid.description>Créer un androide TX2K male</ATPP_CreateTX2KAndroid.description>
+  <ATPP_CreateTX2KAndroid.jobString>Crée un androide TX2K</ATPP_CreateTX2KAndroid.jobString>
+  
+  <ATPP_CreateTX2KFemaleAndroid.label>Créer un androide TX2K femelle</ATPP_CreateTX2KFemaleAndroid.label>
+  <ATPP_CreateTX2KFemaleAndroid.description>Créer un androide TX2K femelle</ATPP_CreateTX2KFemaleAndroid.description>
+  <ATPP_CreateTX2KFemaleAndroid.jobString>Crée un androide TX2K</ATPP_CreateTX2KFemaleAndroid.jobString>
+  
+  <ATPP_CreateTX2KIAndroid.label>Créer un androide TX2KI male</ATPP_CreateTX2KIAndroid.label>
+  <ATPP_CreateTX2KIAndroid.description>Créer un androide TX2KI male</ATPP_CreateTX2KIAndroid.description>
+  <ATPP_CreateTX2KIAndroid.jobString>Crée un androide TX2KI</ATPP_CreateTX2KIAndroid.jobString>
+  
+  <ATPP_CreateTX2KIFemaleAndroid.label>Créer un androide TX2KI femelle</ATPP_CreateTX2KIFemaleAndroid.label>
+  <ATPP_CreateTX2KIFemaleAndroid.description>Créer un androide TX2KI femelle</ATPP_CreateTX2KIFemaleAndroid.description>
+  <ATPP_CreateTX2KIFemaleAndroid.jobString>Crée un androide TX2KI</ATPP_CreateTX2KIFemaleAndroid.jobString>
+ 
+</LanguageData>
